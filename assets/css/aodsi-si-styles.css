@@ -1,0 +1,8 @@
+/*css code for plugin*/
+
+/*css for text asking to install/activate woocommerce*/
+.aodsi-have-you-woo h3 {
+color: red;
+font-size: 2em;
+text-decoration: underline;
+}

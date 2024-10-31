@@ -1,0 +1,190 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-09-25 00:02+0100\n"
+"PO-Revision-Date: 2020-09-18 00:30+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: assets\n"
+"X-Poedit-SearchPath-2: includes\n"
+"X-Poedit-SearchPath-3: templates\n"
+
+#: includes/activation.php:18
+msgid "You must activate/install woocommerce!"
+msgstr ""
+
+#: includes/main.php:36
+msgid "[Invoice No. "
+msgstr ""
+
+#: includes/main.php:59
+msgid "Invoice No."
+msgstr ""
+
+#: includes/woo-si-order-info.php:33
+msgid ""
+"An invoice number will be generated when the status is first updated to "
+msgstr ""
+
+#: includes/woo-si-order-info.php:33
+msgid " (this can be changed in settings)"
+msgstr ""
+
+#: includes/woo-si-order-info.php:39 includes/woocommerce-settings.php:25
+msgid "Invoices"
+msgstr ""
+
+#: includes/woo-si-order-info.php:42
+msgid "Invoice Number:"
+msgstr ""
+
+#: includes/woocommerce-settings.php:27
+msgid ""
+"On what statuses should an invoice number be created if the order does not "
+"already have one? (Default: Processing and Completed, this should only be "
+"changed if a plugin is installed that adds more statuses or it is otherwise "
+"absolutely neccesary)"
+msgstr ""
+
+#: includes/woocommerce-settings.php:29
+msgid ""
+"Clear the AOD order invoices table and remove the invoice numbers from all "
+"prior orders. The next invoice number will then return to 1."
+msgstr ""
+
+#: includes/woocommerce-settings.php:56
+msgid "Sequential Invoicing"
+msgstr ""
+
+#: includes/woocommerce-settings.php:82 includes/woocommerce-settings.php:94
+msgid "Reset Sequential Invoice Numbers"
+msgstr ""
+
+#: includes/woocommerce-settings.php:109
+msgid "Usage"
+msgstr ""
+
+#: includes/woocommerce-settings.php:117
+msgid "Include Invoice No. In Woocommerce Emails"
+msgstr ""
+
+#: includes/woocommerce-settings.php:131
+msgid "Invoice Progression"
+msgstr ""
+
+#: includes/woocommerce-settings.php:141
+msgid "Next Invoice Number"
+msgstr ""
+
+#: includes/woocommerce-settings.php:153
+msgid "Create Invoice Number On"
+msgstr ""
+
+#: sequential-invoice-numbers.php:119
+msgid "Sequential Invoice Numbers"
+msgstr ""
+
+#: sequential-invoice-numbers.php:120
+msgid ""
+"A plugin that adds sequential invoice numbers to your woocommerce orders, "
+"also serves as a foundation for other AOD invoice plugins."
+msgstr ""
+
+#: sequential-invoice-numbers.php:126 sequential-invoice-numbers.php:127
+#: sequential-invoice-numbers.php:128
+msgid "Coming Soon"
+msgstr ""
+
+#: sequential-invoice-numbers.php:177
+msgid "Are you sure? This operation is not easily reversed."
+msgstr ""
+
+#: sequential-invoice-numbers.php:206
+msgid ""
+"On what statuses should an invoice number be created if it does not already "
+"exist? (Default: Processing and Completed, this should really only be "
+"changed if you install a plugin that adds more statuses)"
+msgstr ""
+
+#: sequential-invoice-numbers.php:221
+msgid "Settings"
+msgstr ""
+
+#: sequential-invoice-numbers.php:231 sequential-invoice-numbers.php:232
+msgid "AOD Suite"
+msgstr ""
+
+#: sequential-invoice-numbers.php:242 sequential-invoice-numbers.php:243
+msgid "Dashboard"
+msgstr ""
+
+#: sequential-invoice-numbers.php:280 templates/Dashboard.php:57
+#: templates/Dashboard.php:63
+msgid "Active"
+msgstr ""
+
+#: sequential-invoice-numbers.php:283
+msgid "Deactivated"
+msgstr ""
+
+#: sequential-invoice-numbers.php:286 templates/Dashboard.php:79
+#: templates/Dashboard.php:85
+msgid "Not Installed"
+msgstr ""
+
+#: sequential-invoice-numbers.php:349
+msgid "Nonce value cannot be verified."
+msgstr ""
+
+#: sequential-invoice-numbers.php:370
+msgid "Could not clear table."
+msgstr ""
+
+#: templates/Dashboard.php:8
+msgid "Art Of Data Suite"
+msgstr ""
+
+#: templates/Dashboard.php:12
+msgid ""
+"We have made a collection of plugins to help you manage your order invoices, "
+"they are listed below and it could be worth considering whether installing "
+"some will improve the functionality of your website."
+msgstr ""
+
+#: templates/Dashboard.php:16
+msgid "Our plugins"
+msgstr ""
+
+#: templates/Dashboard.php:22 templates/Dashboard.php:33
+msgid "Plugin"
+msgstr ""
+
+#: templates/Dashboard.php:24 templates/Dashboard.php:35
+msgid "Description"
+msgstr ""
+
+#: templates/Dashboard.php:26 templates/Dashboard.php:37
+msgid "Status"
+msgstr ""
+
+#: templates/Dashboard.php:104
+msgid "No data found"
+msgstr ""
+
+#: templates/have-you-woo.php:14
+msgid "Please Activate Woocommerce"
+msgstr ""
+
+#: templates/have-you-woo.php:18
+msgid "Please Install Woocommerce"
+msgstr ""
